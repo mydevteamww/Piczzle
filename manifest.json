@@ -1,0 +1,64 @@
+{
+  "background_color": "#ffffff",
+  "description": "Piczzle By CodeSculpt Games",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Piczzle",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Piczzle",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "personalization",
+    "photo",
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+    {
+      "src": "https://kirilllive.github.io/Fifteen_puzzle_maker/icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "256x256"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Piczzle",
+      "url": "",
+      "description": ""
+    }
+  ]
+}
