@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "Piczzle By CodeSculpt Games",
+  "description": "Piczzle",
   "dir": "ltr",
   "display": "standalone",
   "name": "Piczzle",
@@ -10,9 +10,7 @@
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
-    "personalization",
-    "photo",
-    "productivity"
+    "games"
   ],
   "screenshots": [
     {
@@ -46,12 +44,6 @@
       "src": "images/icon-any.png",
       "type": "image/png",
       "purpose": "any"
-    }
-  ],
-    {
-      "src": "https://kirilllive.github.io/Fifteen_puzzle_maker/icon.jpg",
-      "type": "image/jpeg",
-      "sizes": "256x256"
     }
   ],
   "shortcuts": [
