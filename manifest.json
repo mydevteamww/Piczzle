@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Piczzle",
+  "description": "Nexus Nova Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Piczzle",
+  "name": "Piczzle:Custom Puzzle Maker",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Piczzle",
+  "short_name": "Piczzle:Custom Puzzle Maker",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Piczzle",
+      "name": "Piczzle:Custom Puzzle Maker",
       "url": "",
       "description": ""
     }
